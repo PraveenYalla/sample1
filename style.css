@@ -1,0 +1,12 @@
+:root {
+  --bg_main: #0026ffa9;
+  --bg_light: #ff9898;
+}
+
+body {
+  background-color: var(--bg_light);
+}
+
+h1 {
+  color: var(--bg_main);
+}
